@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 100%;
+}
+
+.main-visual-spring {
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(chapter6_exercise/img/box1.jpg);
+}
+
+.main-visual-summer {
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(chapter6_exercise/img/box2.jpg);
+}
+
+.main-visual-autumm {
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(chapter6_exercise/img/box3.jpg);
+}
+
+.main-visual-winter {
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(chapter6_exercise/img/box4.jpg);
+}
